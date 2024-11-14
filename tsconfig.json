@@ -35,6 +35,7 @@
     ".eslintrc.cjs",
     "tailwind.config.js",
     "postcss.config.js",
+    "src/loader.js",
     "src/modules/common/components/theme-provider"
   ],
   "exclude": [
