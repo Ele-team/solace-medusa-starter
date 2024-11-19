@@ -8,8 +8,8 @@ checkEnvVariables()
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    loader: 'custom',
-    loaderFile: './src/loader.js',
+    //loader: 'custom',
+    //loaderFile: './src/loader.js',
     remotePatterns: [
       {
         protocol: 'http',
